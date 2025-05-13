@@ -2,7 +2,7 @@
 
 A Streamlit-based chatbot that processes text files, clusters sentences by topic using K-means, and answers queries with relevant sentences using the `all-MiniLM-L6-v2` sentence transformer model. Built in Google Colab with ngrok for public access, this project showcases NLP, topic clustering, and web app development.
 
-![Demo](https://via.placeholder.com/600x300.png?text=Streamlit+Chatbot+Demo) <!-- Replace with screenshot -->
+![Demo](Demo/Capture 1.png)
 
 ## Features
 - **File Upload**: Upload `.txt` files (100–1000 words) with single or multiple topics.
@@ -25,7 +25,7 @@ A Streamlit-based chatbot that processes text files, clusters sentences by topic
 ## Setup (Google Colab)
 1. **Open the Notebook**:
    - Download `document_query_chatbot.ipynb` from this repository.
-   - Upload to [Google Colab](https://colab.research.google.com/).
+   - Upload to [Google Colab]([https://colab.research.google.com/](https://colab.research.google.com/drive/1ezjQAFxC1TMxKuiWbhXiSGsRPgr22-gA?usp=sharing)).
    - Use Python 3 runtime (GPU optional for faster processing).
 2. **Prepare Text Files**:
    - Place `sample.txt`, `sample2.txt`, `mixed_sample.txt`, and `complex_sample.txt` in `/content/drive/MyDrive/`.
