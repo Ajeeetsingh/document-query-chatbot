@@ -2,7 +2,7 @@
 
 A Streamlit-based chatbot that processes text files, clusters sentences by topic using K-means, and answers queries with relevant sentences using the `all-MiniLM-L6-v2` sentence transformer model. Built in Google Colab with ngrok for public access, this project showcases NLP, topic clustering, and web app development.
 
-![Demo](Demo/Capture 1.png)
+![Demo](Demo/Capture_1.png)
 
 ## Features
 - **File Upload**: Upload `.txt` files (100–1000 words) with single or multiple topics.
