@@ -25,7 +25,7 @@ A Streamlit-based chatbot that processes text files, clusters sentences by topic
 ## Setup (Google Colab)
 1. **Open the Notebook**:
    - Download `document_query_chatbot.ipynb` from this repository.
-   - Upload to [Google Colab]([https://colab.research.google.com/](https://colab.research.google.com/drive/1ezjQAFxC1TMxKuiWbhXiSGsRPgr22-gA?usp=sharing)).
+   - Upload to [Open in Colab](https://colab.research.google.com/drive/1ezjQAFxC1TMxKuiWbhXiSGsRPgr22-gA?usp=sharing) (set to "Anyone with the link can view").
    - Use Python 3 runtime (GPU optional for faster processing).
 2. **Prepare Text Files**:
    - Place `sample.txt`, `sample2.txt`, `mixed_sample.txt`, and `complex_sample.txt` in `/content/drive/MyDrive/`.
